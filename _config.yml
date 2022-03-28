@@ -1,1 +1,13 @@
+#
+# Configuration file is to customize my blog site
+#
 theme: jekyll-theme-cayman
+# Name of my site
+name: "Blog of Heaton Dean(Haoming Ding)"
+# Short bio (displayed in the header)
+description: "C’est la Vie!"
+# Icons in the footer 
+footer-links:
+	email: fireweed678@outlook.com
+	github: HeatonDean
+	tumblr: https://hd-eadwela.tumblr.com
